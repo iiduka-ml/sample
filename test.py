@@ -7,6 +7,7 @@ from login import check_password
 st.write('　')
 
 system_msg = """
+
 import pandas as pd
 
 # サンプルデータの作成（実際のデータを読み込む場合は、この部分を読み込むコードに置き換えてください）
