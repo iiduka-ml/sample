@@ -10,5 +10,5 @@ st.write('　')
 
 # """
 
-st.write(system_msg)
+# st.write(system_msg)
 
