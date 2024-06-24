@@ -4,7 +4,7 @@ import os
 
 from login import check_password
 
-st.write('test')
+st.write('')
 
 system_msg = """
 
